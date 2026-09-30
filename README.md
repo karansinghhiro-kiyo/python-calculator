@@ -1,2 +1,12 @@
-# python-calculator
-My third Python project — a simple calculator using basic Python operations and if-elif conditions.
+# 🧮 Python Calculator
+
+My third Python project.
+
+A simple calculator made with Python that can perform:
+
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+
+Built while learning Python basics. 🐍
